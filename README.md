@@ -14,7 +14,7 @@ The project includes a full Jupyter notebook pipeline and an interactive Streaml
 | `app.py` | Streamlit dashboard with 6 tabs and sidebar controls |
 | `requirements.txt` | All Python dependencies |
 
----
+----
 
 ## 🚀 How to Run
 
